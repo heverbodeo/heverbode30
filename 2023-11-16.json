@@ -1,0 +1,26 @@
+{
+  "name": "Marc Franklin",
+  "age": 42,
+  "address": {
+    "street": "Puhlok Ridge",
+    "city": "Aditjar",
+    "state": "KS",
+    "zip": "98007"
+  },
+  "contact": {
+    "phone": "(501) 589-6130",
+    "servicePhone": "800351359"
+  },
+  "birthday": "1978-11-17T11:43:37.765Z",
+  "ip": "5.211.228.227",
+  "foo": "bar",
+  "profile": {
+    "about": "Zur oz nabegaf um lipka runbowe uraguk sehohkum wu tag ofi hopazuh jebaro vildo. Ulaje at co cul iti cov de komawe wujuhzew we obu capo iwjaz. Pizowbo wafbeba mi baadceh sabu pir nap ogzarlaz it dafufos ces etmuep obpi on jeh nifug kuh bav. Vekbi zasufuzu akaje kuome wulmubjet imerajjaj acged damha hofvi bejiz oleokub abevuvzo ev comme socimbiz. Egu acuhe on weutu logpamo gud git uri zofupe mom ovifevma wuwtashec ababu. Devek kaapa riw uziv weprig gu ifo jinu id ju ud kugebo oz jehebudur pegozpif.",
+    "bio": "Go na raf ki bowlu hol gu ehekaful mavadzid ganu janzi hubadanoj vatwimih veb lowuv wa ecuav. Renebot vilun vior somfu vo igge lozhomjap pagoz biovheb hav opepac buzbubwo vo en cab. Zuirvu raj tudkuj binkuw galoveg afe ohorisi ohi gawirik ohelahze wu dasdet ful ewidujcis. Abikiuce me ko nuvokos zakon ri cufes umo wadepoj faz like zawzezju. Botazga jora tovip pi elise fu pevimid zel kitepuka nore kunair suwjap baase bevnu."
+  },
+  "apiKey": "5b84ca5257d5d001ebd23665d2bd7d172e94fe950aba5c1861abf75c4c7decd4",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}

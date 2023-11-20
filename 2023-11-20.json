@@ -1,0 +1,26 @@
+{
+  "name": "Johanna Gregory",
+  "age": 38,
+  "address": {
+    "street": "Verelu Highway",
+    "city": "Iftitig",
+    "state": "AR",
+    "zip": "23712"
+  },
+  "contact": {
+    "phone": "(212) 551-8916",
+    "servicePhone": "800948244"
+  },
+  "birthday": "1999-09-11T05:08:57.803Z",
+  "ip": "157.170.165.98",
+  "foo": "bar",
+  "profile": {
+    "about": "Mo udoumis goawa sarwes wuje fovzad onu ba tas okvo imoni aj wav dotjez isarow kederwuf sofpisja. Wo jal latu gab mus taw ja wuf uwe jateh kunvewsis jaceuv ifoepho tekab nogejo oncija. Okopu vijwi wadle zezbikeh azsuw hebezafo pegecze mi mi irkod oko ugmi zu webdamimu nago abmun rahhec.",
+    "bio": "Avbike cu ze rihpon miujade nehdel pelukdo fu ogijoh moste voc fivut zugigaaf salaz fofor ca sidosi zasuk. Kiroma tudcuto wap jujebnif deav zatgilih ihufze it otetawev ta wuose tuwpuw salvunhod bancor. Finsa sebitwi mege pekvajip hum udalela bizseor satzitjuh go gipjitzo jipa orazolij mo el geosu."
+  },
+  "apiKey": "b06a9aea952dcd238f68537178982e87f157bb56798f743affae57ee1d0b5b2d",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}

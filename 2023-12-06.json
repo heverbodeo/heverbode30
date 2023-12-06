@@ -1,0 +1,26 @@
+{
+  "name": "Adrian Yates",
+  "age": 21,
+  "address": {
+    "street": "Zeti Avenue",
+    "city": "Dutcuhtu",
+    "state": "UT",
+    "zip": "91059"
+  },
+  "contact": {
+    "phone": "(349) 791-3922",
+    "servicePhone": "800243271"
+  },
+  "birthday": "1991-06-27T14:28:24.127Z",
+  "ip": "176.175.13.181",
+  "foo": "bar",
+  "profile": {
+    "about": "Lo faw osafithu irsac vioguer felci jor wiguw goijti tuw ugoju vu beflisku uf imuti kovgawo raneji vuhakpa. Afheja panuz ser uvi wu vira faesa avuvif fiwete gu ugoterug jimhi joohcu tojne zitaula zutondik. Oc vuve toluszeg jo ajlu jo jiro otu vunawzum ba mi gauba fuju. Hujpa er epiri womvub dev rujpac mew lirin wekrowig ani efuz ivujeji za betup be nebasu parsubeci sin. Taj eraik igedo nowbambi banop fer ervoef kosawiv bufa pob rirpukan tieca rob butatop. Co miw ebu voefeji pef uhi fa adped pi gumgemlot jafete wogijlo ari docizo oholediv fe it buwbeul.",
+    "bio": "Lobatoh jofiwti ih vi lon wogmemtit fe doda kilrut webvija juj himkob uvpez vikuj. Ho sa makkemso odcu gili turafujuc mu dofamseb wegehbof fiac coni vonju eg zed uc naag luz. Biror tu lore una ac davo ifkemor sunfu parol la woid piimuc kutu jizleg za ogru inuzo. Lezoz hupbun fowumcu tusem vodi cegziibi jultuf bibudo nakirva tulhus hifjis nawaro bi searozok re telsecgi aluge ne."
+  },
+  "apiKey": "3dc071c3a5dedb0d1a40d899d886216c61fa49791a83d3cfe07764dd31a9afae",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}

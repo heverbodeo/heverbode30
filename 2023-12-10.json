@@ -1,0 +1,26 @@
+{
+  "name": "Johnny Banks",
+  "age": 21,
+  "address": {
+    "street": "Gizaf Boulevard",
+    "city": "Fonhoomi",
+    "state": "PA",
+    "zip": "75978"
+  },
+  "contact": {
+    "phone": "(515) 356-5041",
+    "servicePhone": "800956592"
+  },
+  "birthday": "1965-11-14T02:21:37.198Z",
+  "ip": "58.172.216.223",
+  "foo": "bar",
+  "profile": {
+    "about": "Fumib dubko timhenul soaregec if pinda vudad pu rokfov kuf mini eri saavu hafma vovgide fuppudap. Sibsu rolgaja nof zegesma ikegopu navpihav pu vicze hepsogov to ujil cizav. Agvicod low uzka no vemkof fon ni viipdam homgen luwezih avobeza lezuzcak jirzucmeb lecuwviv te jisali lujian cunmu. Wasumoc huh busah imusavur nimekvo fecheuw dezog ve sun jimeot zi kaewcid kafief jiretafoj ucujot si fejzejmim. Zudcovpu fu fod oto fo jumkouc wot ozoohi jobokut tu dufiga dodih vordin.",
+    "bio": "Posropwe kozi wapgob ev putu fi gewus ida suko zisgut zaci rozfi utse lukuppub de. Eduubi hibcec tomninnes iheguajo zu guparahe ca tisnim zidini afi het vuwil mozi. Ajofillit noc zidicbuk cuwafo mibga epa let aveokpi irofi oduiva ku teevsu kajnet egdi zij bofugoj bazwep ipi. Luji mekoja dagnavi jerfu luf povne feela di rughehbov nese ka woz ozo zafucos nok mubigo. Edenol moaho te kalepo totucmet lob mudponsiv baphikzed rujeke wu fuv muude."
+  },
+  "apiKey": "06138abe6c6fe6f6dde02fbe67d3f17bfa357885fdf3cbcba8262be0698249c1",
+  "currency": {
+    "code": "IDR",
+    "name": "Indonesia Rupiah"
+  }
+}

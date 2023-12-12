@@ -1,0 +1,26 @@
+{
+  "name": "Harry Campbell",
+  "age": 62,
+  "address": {
+    "street": "Zohma View",
+    "city": "Vedwosa",
+    "state": "NY",
+    "zip": "60968"
+  },
+  "contact": {
+    "phone": "(925) 698-7496",
+    "servicePhone": "800268861"
+  },
+  "birthday": "1992-03-01T23:37:57.700Z",
+  "ip": "168.106.170.246",
+  "foo": "bar",
+  "profile": {
+    "about": "Soor mow me niupdon dosu ho vano rehluj ame jedfeem dajiva opi motawiz loh pifdecid. Fet vo ju iluzu kel ti ziziz figuha somof jeg rij ru itefif oc gog jeb. Fadgo zeeg melto nojo bi wachepiso tik losi riljefdig ledawve vuszaep ifterav bialuteb fonpoj focfi enovop lih iwobu. Velapir eg fijpe kam romudeg ame eruho uw jaala fus lesmisbe vaihmul zid gefhikag enge wer.",
+    "bio": "Neume keca sud jo cif fesol telafowo kevfoc canitma poc dikejfow el emadev. Gebsegre suutja kivorwuz powse pukrimtu hojez liddofdog uslebpo uze bevesehew rejsovda nim rop wafgesic. Di foh tu rizhibnuh ludoc puij fahdiw hial heztimum gireuli ki cu."
+  },
+  "apiKey": "fde6088eda72255cbf0a65a4e8848984c3bc0b2f556ac0941e1d2cb764a99d05",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}

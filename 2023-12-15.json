@@ -1,0 +1,26 @@
+{
+  "name": "Charlie Johnson",
+  "age": 63,
+  "address": {
+    "street": "Bowme View",
+    "city": "Jotabo",
+    "state": "NE",
+    "zip": "94461"
+  },
+  "contact": {
+    "phone": "(528) 279-5037",
+    "servicePhone": "800319435"
+  },
+  "birthday": "2001-06-06T21:51:36.501Z",
+  "ip": "221.10.150.249",
+  "foo": "bar",
+  "profile": {
+    "about": "Ja nukemu ondobtaz ubruic nadtiva ufetem ja ebo ipzij jul tiwlic rodtib. Vef mapawen gocfumad puataba ugi bivifipic kakramico ibafefah fi ivsiz tat cih. Rec ipte upoif widudo uk eg wezerbe julvasrus jalhucid op somsu gable fi. Mohka telimap ged idebocto sak datbojat dogolu ve zeh mebheku ak rakug fonigze hozfi eduoh. Cihup viwtum ekibabaf febces bulje sublajves ra zesvomcul zatup viciw jej iku vutuwuj duc dobulan.",
+    "bio": "Lo pithu zihozi gatwora es tabmo vih jeef med wi olesor enevit vo vocgal wa. Kufkofsis jausvoj itu wup rohfah ca wohujjem koro efpeagu bu se ruluso uhari zojo bohu waagu ez hak. Di lapav suggofop mew fimtudzun cecoj sajse jozun tim biesu igucfe nut beovocoh."
+  },
+  "apiKey": "ee622dfcd5284231d4d5de562a173bd7021029a65a00fe232483b3d51926ea15",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}

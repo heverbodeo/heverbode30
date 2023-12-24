@@ -1,0 +1,26 @@
+{
+  "name": "Adam Meyer",
+  "age": 46,
+  "address": {
+    "street": "Ulba Junction",
+    "city": "Suluji",
+    "state": "MT",
+    "zip": "35021"
+  },
+  "contact": {
+    "phone": "(221) 258-9929",
+    "servicePhone": "800794351"
+  },
+  "birthday": "1975-05-08T05:07:24.887Z",
+  "ip": "43.4.149.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Ogho tulwobe henrettot ibuk pugkuf ofsak mizum fa biovausu ci dugsogud uz. Horiice dusko ha navafge ekbahiz med algargo de nuced go na jethup. Bovleca fakij vivohi tipel ujael acuvab lopzazug letepiaf vu wakpip wejpu upodam detob. Po kinicisem nofekkiz bi eneud ihucoewi ruhhagoc zuvup ju ciritij coz cemovdig emiih. Ica zowo vatceido oze elcu virti sa ele ba eba vota mu.",
+    "bio": "Toebo ufi bobbatu rolzuvgi sak pujapnac imirasod seh fa tiamimo imazawe bi dom coj uz la vazu. Santok vaggi rejhi sigpi za godus tahpib jubunimu uzi wotwel assopum safob beski nutbajnus dijka likti. Faffal buhoceta rozew del uf vobkewgum lozeg feal fi ahuha deotu jekdaf wa gek foj. Unsuvu wu figik ibkasrob oji humuj ewo heiki cegof ridibec imguk wapka pu higorelu wouto. Koka ju mibdew fistifwo akbitwo zeut annisig ruvum niaduil uwu ef zopbib bernofu mef museok ja gonusoz."
+  },
+  "apiKey": "3bd8df0aeb925d02f0dc4143bedc9fceca697bd58267800093f8c9fb9412e952",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}

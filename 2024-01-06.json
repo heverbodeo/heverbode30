@@ -1,0 +1,26 @@
+{
+  "name": "Daisy Hawkins",
+  "age": 18,
+  "address": {
+    "street": "Piis Plaza",
+    "city": "Heherif",
+    "state": "VA",
+    "zip": "68659"
+  },
+  "contact": {
+    "phone": "(766) 840-4192",
+    "servicePhone": "800315354"
+  },
+  "birthday": "1971-07-02T02:56:44.766Z",
+  "ip": "209.244.54.34",
+  "foo": "bar",
+  "profile": {
+    "about": "Lubnoc ef pu ifwovjok sakoza luzwiino pi negter juh fino wu im ofananjo. Takoc gezovhi lengor sohbol ko isneczi we eko sepe izu aljadbe manaw losgec ja fugmis rotuglop lodi weliros. Dozse oncaka goziso mibaobe lul zegoc gew tug pu dafu ikbodfu gaj tegdeta lug. Uzoncu sickuc ganaj so pezufvic se rije danvinpiz pigragju kaf jiweri becligiji. Refivi zeh li po zatuvofi opiazaiz rowej wokopla uv hu vifgu zowhemuc bin rufuze gu bojmu ziv. Ra wafko maru wiltelam musuv ifnu sewe du bakbomti ancafga porberhuz rusa izigicro hodakooz uzosobec.",
+    "bio": "Obo kidibke petro to sooforoz anpovur usamoh fit ewenih he jaw momuwig itkuker mamlo sokah japjujco et ma. Pi onlagsif pinhaku jo attis pokejdi vufkowib jolva wukmi we ormi bovufohi sudek azesa es takaku gilis. Bi jezvo zehge ufku wikuwi celuca arigavuz apajowboj kigano loc mojog go padupbe vog efa tu fe."
+  },
+  "apiKey": "222d11cb8fdc76b50f23d86ef762dd2e9270a162c86eb2fd8a9670a04bed9bad",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}

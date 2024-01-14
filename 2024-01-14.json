@@ -1,0 +1,26 @@
+{
+  "name": "Bruce Daniels",
+  "age": 25,
+  "address": {
+    "street": "Adoone River",
+    "city": "Nacata",
+    "state": "NY",
+    "zip": "59318"
+  },
+  "contact": {
+    "phone": "(446) 460-2227",
+    "servicePhone": "800842325"
+  },
+  "birthday": "1981-01-14T20:08:50.933Z",
+  "ip": "33.116.105.250",
+  "foo": "bar",
+  "profile": {
+    "about": "Nepnirze jiad jektap zuzitdiv cem linatwi raz witos vev potdep udulaeve ofi cidipo renlel gi. Giz us sowjil opaki tag wit lutgugve megavucan fad vorvi jiz ho po oh. Kancovci vebiti ot witona piluw ma gecicu lil geco ha unazagve opuno revet jalcaf dil fab. Rejab uf wad pi jo mopgauli cufifeano garjih vo ejahidfap agokana muvpi pikaur agu jitdeene. Vildu cijsih pu nisave veke mojap kol ud ubasawvo ijulozveg up suowe simcez. Kocze adini awovu oju cec rimucedi paskinej ivizus rojduc hafzuf neuwlaj puid lometlup aniucuze jizvirfom oninheg sajgu.",
+    "bio": "Hefkekinu opivowas jowsec pop uwu eg dasikno wiju buket milanuh okpas pawgivi serivo dos zamgut. Ucnej sel zu macvav ot bik kaldab izosuba lilevutu mefebog fufsutab dul avuuntit rif murcip. Ze sazeg moloze nopuap zieglu co cikcuw uf relufcij uhoha abeibeza esotif ki uju fiduc gicegfi ugataca."
+  },
+  "apiKey": "9c3a9ddbee5a60b658eeb93ac1c0e33c4f56e0a7bedb5152c10b91a6c9cddbc0",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}

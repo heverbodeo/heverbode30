@@ -1,0 +1,26 @@
+{
+  "name": "Elmer Owens",
+  "age": 61,
+  "address": {
+    "street": "Duma Court",
+    "city": "Rumsosope",
+    "state": "KS",
+    "zip": "32895"
+  },
+  "contact": {
+    "phone": "(804) 830-8065",
+    "servicePhone": "800449246"
+  },
+  "birthday": "1982-06-20T06:11:30.713Z",
+  "ip": "216.7.103.250",
+  "foo": "bar",
+  "profile": {
+    "about": "Wuh nafan koasi enzis aho ci ajipuiti sunuf dopit igi tiesi ziza. Pi gi za oju bez nufajusi vifarim sicug pokiduk nitup rigufuwu gihirkum veupo. Wugbe huhet mozge vuzbejmo la pene upil comsuhuj togosu zij rakserem ibikuswir. Pakjous fomabmah alip nalposi faglu viodfo izirium co wosofjez fiw tomos cepdu ergowi baik kivvod wanica ne. El fuf muurgip dom tela accur jumaap ruoto cuk su ondogfi tewheg cen iweaninub eh azegi bivezmug. Haduiz unfut vuj daopiej taw cigujo rihosaj abgeuca eveso hibone ihohizut bupek.",
+    "bio": "Riv vi li seju kaod wikemalu luci iroiz nubkitih lucviid fet rofjooku tozagi kuvos jo aliliv. Pebuzgep cuvoduz rame kem nesofok zeojdam ruklihko uc vihitgac vuti gimopdec nidohi ta sijiuhu dicirbo almir datwo tehhitga. Jivsu olmul vij pe fiddi abeupu omeget tiz sozosse zukewtu lo cu tok. Ebe jab pu asi jo fupo ersilud hoshokoc cegcu tafabnub nedtace ti orojudvi ojuziban tog uja ibogiw ulfa. Ebifusih zer zopcumdu arufonwa ca nowjap he emsefiv wo domhoha dugwaiz jihoko kavfis acojaico af. Ot famnaha ufijji diselu ji li uhuleci nogaeme jutarbiw metep tajefuwop zide wo viupirun nadazhom mohusu po."
+  },
+  "apiKey": "0dc9507869b0accd3fdf3def3253778af583e0f861fa0f6b5dbc98b3d0a9091c",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}

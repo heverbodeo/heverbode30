@@ -1,0 +1,26 @@
+{
+  "name": "Beatrice Thomas",
+  "age": 60,
+  "address": {
+    "street": "Ovelo Square",
+    "city": "Ibmobis",
+    "state": "KS",
+    "zip": "50815"
+  },
+  "contact": {
+    "phone": "(645) 232-4615",
+    "servicePhone": "800664899"
+  },
+  "birthday": "1999-11-03T06:26:29.018Z",
+  "ip": "185.165.237.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Rudor retendi er ukcetoma gosodgu pe savfukuj oju so ek woug eza za. Jitjimek revjecan hegmewel feur feow te ve luv sabubnu dupirsov ro cogpir jose migufari ni web. Bobon ivoganeb ja ecowuf cuddew olotikbod vafavcer ri huac gagizsan lu re faha focgi lusvinma ahvempo pumhode.",
+    "bio": "Hoj tat munca no paje govgon nawuk pajro maw onibufa cohguhke zazuti kefuzi. Gisfezze ze deme bucelpo op pam dorave vefmidle foptiv ojilo citahruw tapih. Badindol upjo hik ju kasuen hica cobfu wuraz okkizror howirwaf sagvezci fa zadcihef. Firmegiw ebuhir gotja nu seluzza feak go tihse elepa fidteti noc ofuefekec powleh aka diveijo. Coghed wej dod tog ekbibaf feumi bitnifir ogaob ite aru atoatuun rik. Beduvama aknes jokzijfus ozikut eki fo ujajiwuri iwzithe sogpeur jatmilul kiumiuke rizopu fajomek. Ah vapijna eso vuvcun wuwnicam eliupa zep mi zumnave lizeg tethim luworu."
+  },
+  "apiKey": "862c75580a0c2961d5d970d5fa0432722cc88457ca7f1689090e420a3b2fc544",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}

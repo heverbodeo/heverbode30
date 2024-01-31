@@ -1,0 +1,26 @@
+{
+  "name": "Warren Hale",
+  "age": 63,
+  "address": {
+    "street": "Givi Mill",
+    "city": "Padzipbep",
+    "state": "WI",
+    "zip": "40510"
+  },
+  "contact": {
+    "phone": "(974) 371-5586",
+    "servicePhone": "800229238"
+  },
+  "birthday": "1980-08-26T15:05:12.925Z",
+  "ip": "25.233.148.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Ernig gowize si ur udkus jitis ibo ufiku ora dahpo tobho iw. Suncikzi cididdon ohni fuav tu abo adjod borgufwi pium bocpihiv ha du. Kitgajud zuzkeha jeb fafoni momirca me ulviw ezgijcij babmujuf izi aplutgo azugoh nal vinuc kaj ravkilcoh row adeseih.",
+    "bio": "Kijul ilu be jebegwor joludo zoku go ojke lom ob resgo rijembab jilozlo urtuwav. Potez ulvu tojdu sohuvu sovzo mori oba koffuca ri lokaari hujdiwmop reomoev wuro vutsaoli li. Ucipetfew zuhinedef orwig boto isibis gel tuj fagodu heb jaegoji ra zuucodar lud ijuwomzud."
+  },
+  "apiKey": "bc8f226a001ee36fc1286f7e1b161fb4e36dd052670dee7037301c65b177bd41",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}

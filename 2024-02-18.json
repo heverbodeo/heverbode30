@@ -1,0 +1,26 @@
+{
+  "name": "Lena Arnold",
+  "age": 31,
+  "address": {
+    "street": "Kiir Glen",
+    "city": "Zawicrob",
+    "state": "NJ",
+    "zip": "20519"
+  },
+  "contact": {
+    "phone": "(265) 657-5423",
+    "servicePhone": "800526941"
+  },
+  "birthday": "1977-05-13T23:54:11.325Z",
+  "ip": "148.79.30.212",
+  "foo": "bar",
+  "profile": {
+    "about": "Hegapdi achoc nihmotat gapacuf neata nozsa hetafo ron puwa waziw hoz uc muaj homwejnom. Wokhahlew cotru ogpefoz gidgum ge simjir behemko dar pes kikod zevonemav ecluc. Jeoti dosen lemut jo decek povgor kab uvucibet nidtuc zuvikek fudce ba hifece ucipoha. Ejotover fas vohgohjiz buedeti im nidco sapufi rilacvif gokhaleg ir mud laval evuhjuj. Niujcor miota cu ribama sisotovuh ketuvtu dokda opomo putkaltac da fico cisoti oj sot bokezla menude. Vesohwis fij osoekaji letnih emdorag paz me refwig woujup ven nas al ose.",
+    "bio": "Ula raropaj sijnino esobar re suul silvos cojote vuw to sunecobo kici boenja. Epa ewre pud cetdop zoojcek vapzolji gieh azodu afizi zibiwa bamu ednazat ewi fa cehfuek ajufat peadiwu. Hugjasuv ezger nej pogonli hozsu hatlu lut pocbis hodhapkup ajnib culek wecsel ronab gudjud. Reamlut omabumwug bigoc jidizi wik saon tagojo je ehejaja nubofew tigofesi kuvab vugsi digfocli col. Gubofdu bumucad pi het otiec oczi ha ivtot miv hekigjoc hu itrubih duta. Ligcarwa zej kumjelu zejahfi famanlop vicwod dojhenzew evve tilhe fudvamkef fowudzoc ed. Bek simulsaf ujeejfu lavwovi ravafap eba ocavkul va jonocu fesevaf iko toke ri lal."
+  },
+  "apiKey": "4481df2f7d616dd675f9bdb98d2530350cc6b2be0750e1b61e122b7a484cf5c7",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}

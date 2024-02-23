@@ -1,0 +1,26 @@
+{
+  "name": "Don Bass",
+  "age": 25,
+  "address": {
+    "street": "Ohoco Path",
+    "city": "Guzafolo",
+    "state": "GA",
+    "zip": "59962"
+  },
+  "contact": {
+    "phone": "(488) 414-2127",
+    "servicePhone": "800641449"
+  },
+  "birthday": "1963-05-28T05:34:48.461Z",
+  "ip": "168.246.68.99",
+  "foo": "bar",
+  "profile": {
+    "about": "Ido fecmuz meb vobun fi tessib pim oca duhsim ha pac hu opoivi. Cibpojal kompu ado alu tij nozonefo decap wif hi riwuuj nitat uh midil paz as. Iwijatso gi pusus ihgu ma eb tadepiba ak zoruli fef ikhuov ta wi wi. Awiku ajcaflat vikatwi mi guv ureip nenu reraj analivnuj bujkenloj ca taeva nada haufusuf alo goncu.",
+    "bio": "Rev ju feci pugrohu tog ofebo eti onu gelheghar jipiwked fena huvlahme oti caketo isu valke no. Vohzodo suctaaj jonbuj hobajoc guj ispufe aveum avma wape masum fizdoho neko. Si lusubi pe pal jicocre ra uv ba vesmop deb le ho ido. Bo saje ucufedsev ufo riugofo pizmab og kidha tih na aho degu adafezi. Rujo oj rohaz gotuz erzaf bihulesin ciwa geolbe cikuzi ibi azaam hisoli gizno ru sow uco guzbazbin. Cal ohoisu betu feb ikiben gorcac gekvu hi ru vohu par bure zuba. Vesikowe tegomuv dij gopvi renafav let holdo amha ginijod ge cehbu ibci rewislut."
+  },
+  "apiKey": "3a86adccf6eacee3181904b40606e1061cfbae79fa2a4e4b4ac5936af3e46dcd",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}

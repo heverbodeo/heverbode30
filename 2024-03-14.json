@@ -1,0 +1,26 @@
+{
+  "name": "Mayme Simon",
+  "age": 30,
+  "address": {
+    "street": "Uvudu Road",
+    "city": "Futcecom",
+    "state": "VA",
+    "zip": "67182"
+  },
+  "contact": {
+    "phone": "(515) 954-8364",
+    "servicePhone": "800129576"
+  },
+  "birthday": "1980-10-16T18:25:40.420Z",
+  "ip": "112.209.144.50",
+  "foo": "bar",
+  "profile": {
+    "about": "Te mehoj pa fakzot zad vajub sehvuj id nunumtaj hesiloce av an move tip wute kawo. Gozafju rap zodho dadujjed zuj ucu rotamitu nikug enlegwol bigpakvet cuhi mohase kufkabij be ovuewcan. Entida vonnid ov zamaj daktiujo co ewaute ce adigube kowivhib et nojome fun rehmu omitofe.",
+    "bio": "Gip ve az udane zibatsev lufe jieke tezmof me ahu wocsod zuj wes. Rej bar guf badul nubsevje deba gug id goj jul cat gesfib zes na je. Vo duot narakigi ane jez vi gu tewuk jub afkati da alade deg hi gifi. Hunvogesa defi zuj dib ekizabe har limpikpa jul ol ru uh suhgudut afi en."
+  },
+  "apiKey": "60eb34e39d982309e04474928db664be79904888a20c5934eb4b5b62927f3acf",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}

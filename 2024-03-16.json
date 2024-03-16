@@ -1,0 +1,26 @@
+{
+  "name": "Olive Clayton",
+  "age": 65,
+  "address": {
+    "street": "Kuhu Center",
+    "city": "Dafadlir",
+    "state": "ID",
+    "zip": "56668"
+  },
+  "contact": {
+    "phone": "(206) 769-6471",
+    "servicePhone": "800426345"
+  },
+  "birthday": "1997-05-03T23:46:08.579Z",
+  "ip": "143.128.210.47",
+  "foo": "bar",
+  "profile": {
+    "about": "Bewebzol tamper hu jom pobeebu sek sipze ze jaovo nizurvij ruriczi no ugebocaw kaj ewulid iddu. Ut we hubew uze zam lusojwu hiip rodle nalo sojpaji savo su ejuhoj asatej. Sav iso gavifoc loba lo biaji efvuj ra us mujob favul reebo biane emvuazo im. Evimuki vepzuh evzepka ta simafur cot zuf fa emi wif fucnan agowaku wuvfapdog imimi maodmil ija ci seleg.",
+    "bio": "Lug tap vovbufegu hu kiz fesrule buzwomac nivsa ep cadikod manki av meat. Wi mo pemop tojumwod rir beverme ranageco mehhiago fojdioru bufha vecoppog jedazu. Gusu gine omtozbas doz kus tu dar lounvu huf dugponzal dakuj kunnifku jaudec muric wu voh."
+  },
+  "apiKey": "6e219c0debb72728a0e5e0bae513bc23dec43ab3de0dd243fc4ba6f38d8d304f",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}

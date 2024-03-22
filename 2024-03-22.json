@@ -1,0 +1,26 @@
+{
+  "name": "Marian Howard",
+  "age": 44,
+  "address": {
+    "street": "Boczab Turnpike",
+    "city": "Sitfugdi",
+    "state": "KY",
+    "zip": "70426"
+  },
+  "contact": {
+    "phone": "(553) 315-5009",
+    "servicePhone": "800665199"
+  },
+  "birthday": "1982-10-23T08:25:13.233Z",
+  "ip": "142.135.252.106",
+  "foo": "bar",
+  "profile": {
+    "about": "El por ekunu ahiug fu baanruc ja zeh veefu mu efgevomo kiduum hisbaodu kooz. Hikfavamu mude aroba dab tivhepu subid gibbak lotlod ir opfeuw id ofrozo felti wiwwesu mij. Wo zusiwo foej cita pawda tev te ininepjo fumniago ijevozsu opodak ak.",
+    "bio": "Lajupsed ta ki namga sos dethahig fikko faotedih afeli apo wienoej zod ga ca dofzi li fedriz. Omodenaz jicgugga en juul bionesin wuwsobit tim samjahak kuljelep lile ozi fani ta bundem do dapku. Fu afkuh gip boohgo iczem beuw ce jobi gaw mukvo hovfinnu ju ol obecol."
+  },
+  "apiKey": "c834fd2f48748d78e00efa776654549833ede2084c9605ec12b6fcc39d4560e1",
+  "currency": {
+    "code": "MDL",
+    "name": "Moldova Leu"
+  }
+}
